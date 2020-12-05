@@ -1,11 +1,7 @@
 # Deep Convolutional Methods for Population Estimation
 
 <p align="center">
-    <img src="Sample1.jpg" align="left" style="height: 200px;"/>
-    <img src="Sample2.jpg" align="left" style="height: 200px;"/>
-    <img src="Sample3.jpg" align="left" style="height: 200px;"/>
     <img src="Sample4.jpg" align="left" style="height: 200px;"/>
-    <img src="Sample5.jpg" align="left" style="height: 200px;"/>
 </p>
 
 
