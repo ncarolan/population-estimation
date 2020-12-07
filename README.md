@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="Sample2.jpg" align="left" height=200 />
+    <img src="Sample3.jpg" align="left" height=200 />
     <img src="Sample4.jpg" align="left" height=200 />
     <img src="Sample5.jpg" align="left" height=200 />
 </p>
