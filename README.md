@@ -7,7 +7,8 @@
     <img src="Sample5.jpg" align="left" height=200 />
 </p>
 
-<hr>
+
+<br />
 
 ### Objective
 This model estimates population statistics from satellite imagery of a region.
